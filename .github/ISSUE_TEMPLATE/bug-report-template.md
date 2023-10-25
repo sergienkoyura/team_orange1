@@ -1,12 +1,3 @@
----
-name: Bug report template
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **Date Time**
 DD-MM-YYYY HH:MM
 
